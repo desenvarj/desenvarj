@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Vinicius Araújo Do Nascimento, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Braz Cubas.
+Me chamo Vinicius Araújo, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Braz Cubas.
 
 ---
 
